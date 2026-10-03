@@ -1,6 +1,0 @@
-app:
-  name: "parquet-lakehouse-compactor"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"
