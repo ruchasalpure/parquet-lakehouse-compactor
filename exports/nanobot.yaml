@@ -1,0 +1,4 @@
+spec: nanobot/v1
+name: parquet-lakehouse-compactor
+runtime: python3.11
+entrypoint: agent.py

@@ -1,0 +1,8 @@
+{
+  "agent_id": "parquet-lakehouse-compactor",
+  "protocol": "opencode/v1",
+  "capabilities": [
+    "autonomous",
+    "governed"
+  ]
+}

@@ -1,0 +1,26 @@
+spec_version: "0.1.0"
+name: "parquet-lakehouse-compactor"
+version: "1.0.0"
+category: "data-analytics"
+author: "Rucha Salpure"
+description: "Optimizes Apache Iceberg and Delta Lake table footprints through Z-order clustering, bloom filter synthesis, and small-file row-group compaction"
+capabilities:
+  - "z-order-clustering-compaction"
+  - "autonomous-decision-making"
+  - "explainable-auditing"
+  - "multi-agent-collaboration"
+skills:
+  - "z-order-clustering-compaction"
+tools:
+  - "python_executor"
+  - "audit_logger"
+  - "schema_validator"
+runtime:
+  environment: "python3.11"
+  memory_limit: "4GB"
+  timeout_seconds: 300
+governance:
+  audit_logging: true
+  human_in_the_loop: false
+  maker_checker: true
+  explainability_required: true
